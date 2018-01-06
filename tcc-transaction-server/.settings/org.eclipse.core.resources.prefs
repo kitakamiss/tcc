@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/config/dev/tcc-transaction-server.properties=UTF-8
+encoding//src/main/config/prd/tcc-transaction-server.properties=UTF-8
+encoding//src/main/config/test/tcc-transaction-server.properties=UTF-8
+encoding//src/main/java=UTF-8
+encoding//src/test/java=UTF-8
